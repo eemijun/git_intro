@@ -1,2 +1,1 @@
-"Eemi Juntunen" 
-7
+"Eemi Juntunen"
